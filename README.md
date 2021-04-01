@@ -1,2 +1,3 @@
 # Pizza-Project
-Project for java
+Project for java class
+
